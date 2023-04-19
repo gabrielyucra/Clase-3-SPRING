@@ -16,8 +16,7 @@ public class Proyecto1Application {
 		Scanner escaner = new Scanner(System.in);
 		System.out.println("ingresa tu nombre");
 		String name = escaner.nextLine();
-		System.out.println("ggg " + name);
-
+		System.out.println("Muy buenos dias" + name);
 	}
 
 }
